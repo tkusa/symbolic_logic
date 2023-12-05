@@ -1,0 +1,5 @@
+.vscode
+tmp
+tmp.s
+*.o
+logic
